@@ -1,0 +1,137 @@
+body {
+    text-align: justify-all;
+    margin: 60px;
+    background-color: skyblue;
+    font-size: 21px;
+    float: center;
+    text-align: center;
+}
+
+#school;
+
+    {
+    height: 800px;
+    margin: 20px;
+    font-size: 50px;
+    opacity: 0.83;
+    width: 100%;
+    height: 100%;
+}
+
+.image {
+    height: 250px;
+    margin: 20px;
+    font-size: 50px;
+    opacity: 0.83;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.lists:hover {
+    background-color: cyan;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.parallax-inner {
+    text-align: center;
+
+}
+
+.lists {
+    color: indianred;
+    font-family: fantasy;
+    font-size: 7px;
+    display: inline;
+    margin-left: 25px;
+    padding-left: 50px;
+    padding-right: 14px;
+}
+
+.nav navbar {
+    list-style: none;
+    background-color: white;
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+    margin-top: 0px;
+    top: 0px;
+    width: 100%;
+    list-style: none;
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+    top: 10px;
+    right: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.Gmail {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: black;
+}
+
+ul {
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: skyblue;
+}
+
+
+.I{
+    height: 500;
+    width: 100%;
+}
